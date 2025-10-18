@@ -9,17 +9,16 @@
 <p align="center">
   <i>"The Matrix is a system. That system is our enemy."</i>
   <br>
-  Soy un desarrollador de <b>ATM Solutions SRL</b>, aquí para entender y reescribir el sistema.
+  Soy desarrollador de <b>ATM Solutions SRL</b>, aquí para entender y reescribir el sistema.
 </p>
 
 ---
 
 ### 🟢 MI MISIÓN
 
-* 💻 Actualmente operando dentro de: **ATM Solutions SRL**.
+* 💻 Actualmente operando para: **ATM Solutions SRL**.
 * 🌐 Objetivo primario: Desarrollar y optimizar sistemas con **Google Apps Script** & **JavaScript**.
-* 🤖 Construyendo el proyecto **'ATM-CONTROL'** para liberar la data de la vieja red.
-* 💊 Siempre aprendiendo sobre la "Mainframe" (Arquitectura en la Nube y Bases de Datos).
+* 💊 Siempre aprendiendo.
 
 <br>
 
