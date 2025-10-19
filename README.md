@@ -47,13 +47,3 @@
       alt="Estadísticas de GitHub de MrboatATM" 
     />
   </a>
-  <br><br>
-  <a href="https://github.com/MrboatATM">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrboatATM&layout=compact&theme=radical" 
-      alt="Lenguajes más usados por MrboatATM" 
-    />
-  </a>
-</p>
-
