@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mrboat.png" alt="MrboatATM Banner" width="100%" style="border-radius: 10px;">
+
 
   <br>
   
