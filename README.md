@@ -1,48 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=4285f4&height=250&section=header&text=MrboatATM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Google%20Cloud%20%26%20Firebase%20Expert&descSize=25&descAlignY=55&theme=rect" width="100%" />
 
-  <br>
-  
-  <h1>🏢 Soluciones de Grado Empresarial</h1>
-  <p><strong>"Transformando la complejidad de la nube en experiencias de usuario simples y potentes."</strong></p>
+# ☁️ MrboatATM | Software Engineer
+### Google Cloud Ecosystem & Firebase Expert
+_Transformando la complejidad de la nube en soluciones empresariales de misión crítica_
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/FIREBASE-ARCHITECTURE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-EXPERT-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </p>
+---
+
+![Full-Stack](https://img.shields.io/badge/FULL--STACK-DEVELOPER-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-REALTIME-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD-INFRASTRUCTURE-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 </div>
 
 ---
 
 ### 🚀 Sobre Mí (The Engine)
 
-Soy un arquitecto de soluciones enfocado en el **Ecosistema Google**. Mi pasión radica en la intersección de la automatización inteligente y las bases de datos en tiempo real. Diseño sistemas integrales que conectan **Google Apps Script**, **Cloud SQL** y **Firebase** para crear infraestructuras que escalan sin fricción.
+Soy un arquitecto de soluciones especializado en el **Ecosistema Google**. Mi enfoque principal es la creación de aplicaciones escalables mediante la integración de servicios en la nube y automatización inteligente.
 
-- 🔥 **Real-time Apps**: Especialista en sincronización de datos mediante Firebase (Firestore/Realtime DB).
-- 🔗 **Full Integration**: Conexión total entre APIs de Google (Maps, Drive, Gmail).
-- 🏗️ **Core Logic**: Desarrollo de backends robustos en JavaScript y Python.
+* 🔥 **Real-time Architecture**: Especialista en sincronización de datos mediante **Firebase** (Firestore y Realtime Database).
+* 🏗️ **Enterprise Solutions**: Construcción de backends robustos conectando **Google Apps Script**, **Cloud SQL** y APIs corporativas.
+* 📍 **Geospatial Intelligence**: Implementación avanzada de **Google Maps API** con clustering y geolocalización dinámica.
 
 ---
 
-### 🛠️ Google Stack Tech & Databases
+### 🛠️ Google Tech Stack & Databases
 
 <div align="center">
 
-| **Frontend & Logic** | **Cloud & Hosting** | **Databases & Realtime** |
+| **Frontend & Logic** | **Cloud & Hosting** | **Databases & Real-time** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=gcp,docker,git" /> | <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" /> |
+| <img src="https://skillicons.dev/icons?i=js,html,css" width="120" /> | <img src="https://skillicons.dev/icons?i=gcp,docker,git" width="120" /> | <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" width="120" /> |
 | **JS (ES6+) / HTML5** | **Google Cloud / CI/CD** | **Firebase / Cloud SQL** |
 
 </div>
 
 ---
 
-### 📊 Análisis de Actividad
+### 📊 Análisis de Actividad del Sistema
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrboatATM&show_icons=true&theme=transparent&title_color=4285f4&icon_color=fbbc05&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrboatATM&layout=compact&theme=transparent&title_color=34a853&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrboatATM&show_icons=true&theme=vue-dark&title_color=4285f4&icon_color=fbbc05&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrboatATM&layout=compact&theme=vue-dark&title_color=34a853&bg_color=0d1117&hide_border=true" width="40%" />
 </div>
 
 <br>
