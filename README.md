@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/master/images/google-cloud-banner.png" alt="Google Cloud Banner" width="100%" style="border-radius: 10px;">
+  <img src="assets/mrboat.png" alt="MrboatATM Banner" width="100%" style="border-radius: 10px;">
 
   <br>
   
