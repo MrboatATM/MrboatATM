@@ -1,79 +1,80 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MrboatATM/MrboatATM/main/assets/google_cloud_banner.png" alt="Google Cloud Professional Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=4285f4&height=250&section=header&text=MrboatATM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Google%20Cloud%20&%20Firebase%20Expert&descSize=25&descAlignY=55" width="100%" />
 
-  <h1>MrboatATM</h1>
-  <p>🚀 <strong>Full-Stack Developer | Google Cloud Ecosystem Specialist</strong></p>
+  <br>
+  
+  <h1>💻 Soluciones de Grado Empresarial</h1>
+  <p><i>"Transformando la complejidad de la nube en experiencias de usuario simples y potentes."</i></p>
 
-  <div>
-    <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-34A853?style=flat-square" alt="Status">
-    <img src="https://komarev.com/ghpvc/?username=MrboatATM&color=4285F4&style=flat-square&label=PROFILE+VIEWS" alt="Views">
-  </div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-Architecture-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Google_Cloud-Expert-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-### 📑 Resumen Profesional
+### 🚀 Sobre Mí (The Engine)
 
-Desarrollador enfocado en la creación de soluciones empresariales escalables mediante el **Ecosistema de Google**. Experto en la integración de servicios de datos, automatización de flujos de trabajo y despliegue de infraestructuras en la nube. Mi enfoque principal es transformar procesos operativos en aplicaciones digitales de alto rendimiento.
+Soy un arquitecto de soluciones enfocado en el **Ecosistema Google**. Mi pasión radica en la intersección de la automatización inteligente y las bases de datos en tiempo real. No solo escribo código; diseño sistemas integrales que conectan **Google Apps Script**, **Cloud SQL** y **Firebase** para crear infraestructuras que escalan sin fricción.
 
-**Core Competencies:**
-* **Cloud Architecture:** Diseño de infraestructuras robustas en Google Cloud Platform.
-* **Business Automation:** Soluciones avanzadas con Apps Script para optimización corporativa.
-* **Data Intelligence:** Gestión de bases de datos relacionales con Cloud SQL y MySQL.
-* **Full-Stack Execution:** Desarrollo integral de SPAs (Single Page Applications) modernas.
+- ⚡ **Real-time Apps**: Especialista en sincronización de datos mediante Firebase.
+- 🔗 **Full Integration**: Conexión total entre APIs de Google (Maps, Drive, Gmail).
+- 🏗️ **Core Logic**: Desarrollo de backends robustos en JavaScript y Python.
 
 ---
 
-### 🛠️ Google Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" /><br />JS (ES6+)
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /><br />Google Cloud
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br />Cloud SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br />HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br />CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br />Git
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrboatATM&show_icons=true&theme=vue-dark&hide_border=true&title_color=4285F4&icon_color=FBBC05&bg_color=161b22" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrboatATM&layout=compact&theme=vue-dark&hide_border=true&title_color=34A853&bg_color=161b22" alt="Top Langs" width="40%" />
-</p>
-
----
-
-### 📩 Contacto & Colaboración
+### 🛠️ Google Stack Tech & Databases
 
 <div align="center">
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+
+| **Frontend & Logic** | **Cloud & Hosting** | **Databases & Realtime** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=gcp,docker,git" /> | <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" /> |
+| **JS (ES6+) / HTML5** | **Google Cloud / CI/CD** | **Firebase / Cloud SQL** |
+
+</div>
+
+---
+
+### 📊 Análisis de Actividad
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrboatATM&show_icons=true&theme=transparent&title_color=4285f4&icon_color=fbbc05&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrboatATM&layout=compact&theme=transparent&title_color=34a853&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
+</div>
+
+<br>
+
+---
+
+### 🛡️ Proyectos en el Radar
+
+- 📍 **Maps Advanced Integration**: Sistema de geolocalización y clustering masivo.
+- 🔥 **Firebase Sync Engine**: Sincronización bidireccional de datos críticos en tiempo real.
+- 🤖 **Automated Ops**: Bots y scripts de automatización para flujos financieros.
+
+---
+
+### 📩 Establecer Conexión
+
+<div align="center">
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrboatATM&theme=github-compact&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true" width="100%" />
+</div>
+
 <p align="center">
-  <sub><i>"Don't be evil. Build for everyone."</i></sub>
+  <sub><i>Google Cloud & Firebase.</i></sub>
 </p>
