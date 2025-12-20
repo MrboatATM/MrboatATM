@@ -68,7 +68,7 @@ Mi enfoque principal es la construcción de aplicaciones empresariales de alta d
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/assets/code.gif" width="35">
+  🤖
   <br>
   <sub><i>"Build for the web, deploy to the cloud."</i></sub>
 </p>
